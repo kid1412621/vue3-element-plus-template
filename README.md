@@ -1,4 +1,4 @@
-# c
+# Vue3 + Typescript + ElementPlus
 
 ## Project setup
 ```
