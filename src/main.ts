@@ -5,7 +5,6 @@ import store from "./store";
 import router from "./router";
 import ElementPlus from "./plugins/element";
 import zhCn from "element-plus/lib/locale/lang/zh-cn";
-import "element-plus/dist/index.css";
 
 createApp(App)
   .use(store)
